@@ -16,7 +16,7 @@ name represents the server name
 the base directory is where to have the server put it's files
 RAM is the amount of memory the server has to run
 the jar is the path that will lead to the minecraft jar.
-```JSON config.JSON
+```JSON
 [
     {
         "name": "exampleServer",
