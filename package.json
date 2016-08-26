@@ -1,0 +1,14 @@
+{
+  "name": "node-mc-server-manager",
+  "version": "0.0.1",
+  "description": "a server manager for minecraft by puppy0cam",
+  "main": "node-server-manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "puppy0cam <puppy0caminminecraft@gmail.com> (http://puppy0cam.guppygalaxy.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
